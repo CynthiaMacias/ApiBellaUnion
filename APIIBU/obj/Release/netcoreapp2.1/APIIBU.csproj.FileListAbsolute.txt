@@ -1,0 +1,14 @@
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\bin\Release\netcoreapp2.1\APIIBU.deps.json
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\bin\Release\netcoreapp2.1\APIIBU.runtimeconfig.json
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\bin\Release\netcoreapp2.1\APIIBU.runtimeconfig.dev.json
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\bin\Release\netcoreapp2.1\APIIBU.dll
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\bin\Release\netcoreapp2.1\APIIBU.pdb
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.csproj.CoreCompileInputs.cache
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.RazorAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.RazorAssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.AssemblyInfoInputs.cache
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.AssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.RazorTargetAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.dll
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.pdb
+C:\Users\TSM CONNECT\Desktop\APIIBU\APIIBU\obj\Release\netcoreapp2.1\APIIBU.csprojAssemblyReference.cache
